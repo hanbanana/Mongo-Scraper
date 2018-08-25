@@ -4,7 +4,7 @@
 ### Heroku App Site
 
 
-https://hsl-mongo-news-scraper.herokuapp.com/
+https://mighty-brushlands-19417.herokuapp.com/
 
 
 
